@@ -21,7 +21,7 @@ export default function CoachingMentoring() {
       <section className="container-custom section-padding">
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 className="heading-2">You cannot be a teacher if you don't walk the talk.</h2>
+            <h2 className="heading-2">You cannot be a teacher if you don&apos;t walk the talk.</h2>
             <div className="w-12 h-[1px] bg-[#2c3e50] mb-8"></div>
             <p className="body-text mb-6">
               Mentorship is not an academic exercise—it is an energetic transmission. Real growth requires a guide who has already navigated the deepest parts of the practice and life itself. 

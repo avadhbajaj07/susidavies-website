@@ -42,7 +42,7 @@ export default function Home() {
             Susi Davies has been living and breathing yoga for over 30 years. She owned yoga studios in Australia and Switzerland and is recognised by the US Yoga Alliance. She has guided hundreds of students across the world — not just through poses, but through real transformation.
           </p>
           <p className="body-text mb-8">
-            Her philosophy in life: "You cannot be a teacher if you don't walk the talk". When you learn from Susi, you learn from someone who walks the talk — every single day. She lives her life like a "peaceful warrior".
+            Her philosophy in life: &quot;You cannot be a teacher if you don&apos;t walk the talk&quot;. When you learn from Susi, you learn from someone who walks the talk — every single day. She lives her life like a &quot;peaceful warrior&quot;.
           </p>
           <Link href="/about" className="text-[#6e655b] font-medium tracking-wide uppercase text-sm border-b border-[#6e655b] pb-1 hover:text-black transition-colors">
             Read My Story
@@ -82,7 +82,7 @@ export default function Home() {
             <p className="body-text mb-4 text-sm">
               Escape the hustle and bustle of everyday life and embark on a transformative yoga retreat with us. Immerse yourself in rejuvenating practices, serene environments, and nourishing meals.
             </p>
-            <span href="/retreats" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Explore Retreats &rarr;</span>
+            <Link href="/retreats" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Explore Retreats &rarr;</Link>
           </div>
 
           {/* Coaching */}
@@ -95,7 +95,7 @@ export default function Home() {
             <p className="body-text mb-4 text-sm">
               Our life coaching program is designed to help you identify your goals, overcome obstacles, and create positive changes in your life with personalized guidance.
             </p>
-            <span href="/life-coaching" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Read More &rarr;</span>
+            <Link href="/life-coaching" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Read More &rarr;</Link>
           </div>
 
           {/* App */}
@@ -106,9 +106,9 @@ export default function Home() {
             </div>
             <h3 className="heading-3">Susi Davies. In Your Pocket.</h3>
             <p className="body-text mb-4 text-sm">
-              The Dynamic Yoga app is for anyone that want to either start yoga or keep going with their practice. The app brings Susi's teaching directly to you.
+              The Dynamic Yoga app is for anyone that want to either start yoga or keep going with their practice. The app brings Susi&apos;s teaching directly to you.
             </p>
-            <span href="https://apps.apple.com/ch/app/yoga-lifestyle/id1659410021" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Get the App &rarr;</span>
+            <a href="https://apps.apple.com/ch/app/yoga-lifestyle/id1659410021" className="text-sm font-semibold uppercase tracking-widest text-[#6e655b] group-hover:text-black transition-colors">Get the App &rarr;</a>
           </div>
         </div>
       </section>
@@ -120,13 +120,13 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 max-w-5xl mx-auto">
             <div className="bg-white p-8 shadow-sm">
               <p className="italic text-gray-600 mb-6 line-clamp-4">
-                "I’ve been a student of Susi’s for close to 20 yrs. I’m travelling from Toronto for the retreat…hope that says something about the experience, quality of teaching, benefit/value I get out of attending her retreats..."
+                &quot;I’ve been a student of Susi’s for close to 20 yrs. I’m travelling from Toronto for the retreat…hope that says something about the experience, quality of teaching, benefit/value I get out of attending her retreats...&quot;
               </p>
               <p className="font-semibold uppercase tracking-widest text-sm">— Renata Tasselli</p>
             </div>
             <div className="bg-white p-8 shadow-sm">
               <p className="italic text-gray-600 mb-6 line-clamp-4">
-                "Susi is one of the rare people who Walks the Talk. I have been practising yoga and studying yoga philosophy for 6 years with her. She’s helped me TRANSFORM – mind & body ! And she is so much fun to be around !!"
+                &quot;Susi is one of the rare people who Walks the Talk. I have been practising yoga and studying yoga philosophy for 6 years with her. She’s helped me TRANSFORM – mind &amp; body ! And she is so much fun to be around !!&quot;
               </p>
               <p className="font-semibold uppercase tracking-widest text-sm">— Dominique Vellutini</p>
             </div>
@@ -137,9 +137,9 @@ export default function Home() {
       {/* Newsletter */}
       <section className="py-24 border-t border-gray-200">
         <div className="container-custom max-w-3xl text-center">
-          <h2 className="heading-2">Stay Close to Susi's World.</h2>
+          <h2 className="heading-2">Stay Close to Susi&apos;s World.</h2>
           <p className="body-text mx-auto mb-10">
-            Be the first to know about new courses and programs, app updates, new Retreat locations and Susi's latest insights on yoga, teaching and healthy life styles.
+            Be the first to know about new courses and programs, app updates, new Retreat locations and Susi&apos;s latest insights on yoga, teaching and healthy life styles.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 justify-center">
             <input 

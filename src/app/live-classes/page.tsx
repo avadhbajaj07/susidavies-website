@@ -7,7 +7,7 @@ export default function LiveClasses() {
         <h1 className="heading-1 text-center mb-6">Live Classes</h1>
         <div className="w-16 h-[1px] bg-[#2c3e50] mx-auto mb-12"></div>
         <p className="text-center text-xl text-gray-600 mb-20 max-w-2xl mx-auto">
-          Join Susi's live online classes or group sessions. Designed to elevate your practice from the comfort of your home.
+          Join Susi&apos;s live online classes or group sessions. Designed to elevate your practice from the comfort of your home.
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">
