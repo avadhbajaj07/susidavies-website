@@ -1,0 +1,45 @@
+{
+  "classes": [
+    {
+      "id": "c1",
+      "title": "Vinyasa Flow - Morning Awakening",
+      "instructor": "Susi Davies",
+      "time": "Monday 8:00 AM - 9:30 AM",
+      "level": "All Levels",
+      "description": "Start your week with an energizing flow that connects breath with movement."
+    },
+    {
+      "id": "c2",
+      "title": "Restorative Yoga & Meditation",
+      "instructor": "Susi Davies",
+      "time": "Wednesday 6:00 PM - 7:30 PM",
+      "level": "Beginner Friendly",
+      "description": "Unwind and release tension with deep stretching and guided meditation."
+    }
+  ],
+  "programs": [
+    {
+      "id": "p1",
+      "title": "Yoga Teacher Mentorship (1-on-1)",
+      "duration": "12 Weeks",
+      "description": "Transform from a good teacher to a great one. Deepen your understanding of dynamic yoga asana, philosophy, and pranayama.",
+      "link": "/coaching-mentoring"
+    },
+    {
+      "id": "p2",
+      "title": "Life Coaching & Guidance",
+      "duration": "Flexible",
+      "description": "Overcome obstacles and create positive changes in your life through structured life coaching sessions.",
+      "link": "/life-coaching"
+    }
+  ],
+  "retreats": [
+    {
+      "id": "r1",
+      "title": "YOGA & MEDITATION RETREAT – SAMPATIKI",
+      "location": "Leonidiou, Greece",
+      "date": "Upcoming",
+      "description": "Escape the hustle and bustle of everyday life and embark on a transformative yoga retreat in serene Greek environments."
+    }
+  ]
+}
